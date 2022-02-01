@@ -1,5 +1,6 @@
 ### SNAKE GAME MADE USING PYGAME LIBRARY ###
-#Author: maxcohen31 (Emanuele) 
+# Inspired by: cyysu
+# Modified by: maxcohen31 (Emanuele) 
 
 
 import pygame
